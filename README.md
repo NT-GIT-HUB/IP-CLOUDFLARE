@@ -1,9 +1,9 @@
 
 ### Pré-requisitos
 
-pkg install ncurses-utils
+```pkg install ncurses-utils```
 
-pkg install pv
+```pkg install pv```
 
 pacotes básicos se necessário
 Use com a rede móvel alvo, sem saldo de dados para internet, de preferência. 
